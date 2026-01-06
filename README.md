@@ -54,3 +54,9 @@ npx playwright show-report
 
 ## License
 Use or adapt as you like — add a license file if required.
+
+## Screenshot
+
+Screenshot from the Playwright report:
+
+![Playwright report screenshot](playwright-report/data/0236176fcf12556857a9b0619986d8c5bda60f00.png)
