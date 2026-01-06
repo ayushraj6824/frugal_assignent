@@ -1,0 +1,21 @@
+{
+  "name": "registration-system",
+  "version": "1.0.0",
+  "description": "Intelligent Registration System with Playwright Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "start": "http-server . -p 8080"
+  },
+  "keywords": [
+    "registration",
+    "playwright",
+    "automation"
+  ],
+  "author": "Antigravity",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "http-server": "^14.1.1"
+  }
+}
